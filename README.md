@@ -11,25 +11,9 @@
   </a>
 </div>
 
-
-<div align="center">
-<h1>
-  std::cout << "Hello World!"
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
-### :man_technologist: Aspiring Software Developer:
-- :telescope: Student at RCC 
-
-- :seedling: Exploring JavaScript and its frameworks.
-
-- :zap: In my free time, I build projects and 🏋️
+### :man_technologist: Aspiring Developer:
+- :telescope: Student at UCI 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-h99)
 
