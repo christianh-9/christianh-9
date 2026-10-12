@@ -10,8 +10,8 @@
   <a href="https://your-portfolio-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio Badge"/>
   </a>
-</div>
   -->
+  </div>
 ---
 ### :man_technologist: Aspiring Developer:
 - :telescope: CS Student at UCI 
