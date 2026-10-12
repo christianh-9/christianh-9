@@ -6,11 +6,12 @@
   <a href="https://www.linkedin.com/in/christianh9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!-- 
   <a href="https://your-portfolio-url.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
-
+  -->
 ---
 ### :man_technologist: Aspiring Developer:
 - :telescope: CS Student at UCI 
